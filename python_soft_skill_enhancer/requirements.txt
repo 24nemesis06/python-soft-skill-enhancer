@@ -1,0 +1,15 @@
+cohere
+SpeechRecognition
+python-dotenv
+colorama
+# PyAudio is optional - only needed for microphone input
+# If you need microphone support, install system dependencies first:
+# Ubuntu/Debian: sudo apt-get install portaudio19-dev
+# macOS: brew install portaudio
+# Windows: pip install pipwin && pipwin install pyaudio
+# pyaudio
+
+# Live recording / audio processing
+sounddevice
+soundfile
+numpy
