@@ -2,7 +2,7 @@
 """
 Python Soft Skill Enhancer - Main Application
 
-Author: Soft Skill Enhancer Team
+Author: Somnath Sarkar (24nemesis06)
 Version: 1.0.0
 """
 
