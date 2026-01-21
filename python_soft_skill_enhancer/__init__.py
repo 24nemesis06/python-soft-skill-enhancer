@@ -9,7 +9,7 @@ A comprehensive Python package for enhancing soft skills through:
 """
 
 __version__ = "1.0.0"
-__author__ = "GROUP 27"
+__author__ = "Somnath Sarkar (24nemesis06)"
 __description__ = "AI-powered soft skill enhancement tool"
 
 # Import main modules for easy access
